@@ -1,0 +1,19 @@
+entities = [
+    (1, 21, "NAME"),            # Lisa Marie Johnson
+    (51, 65, "PHONE"),          # (312) 555-6789
+    (74, 104, "EMAIL"),         # lisa.johnson@example.com
+    (665, 674, "SKILL"),        # QuickBooks
+    (676, 679, "SKILL"),        # SAP
+    (681, 699, "SKILL"),        # Oracle Financials
+    (723, 738, "SKILL"),        # Microsoft Excel
+    (740, 756, "SKILL"),        # Microsoft Access
+    (758, 765, "SKILL"),        # Tableau
+    (787, 791, "SKILL"),        # GAAP
+    (793, 797, "SKILL"),        # IFRS
+    (799, 802, "SKILL"),        # SOX
+    (824, 842, "SKILL"),        # Financial Reporting
+    (844, 853, "SKILL"),        # Budgeting
+    (855, 863, "SKILL"),        # Auditing
+    (865, 881, "SKILL"),        # Tax Preparation
+    (883, 900, "SKILL"),        # Payroll Processing
+]

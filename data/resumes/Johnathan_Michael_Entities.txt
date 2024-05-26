@@ -1,0 +1,29 @@
+entities = [
+    (1, 25, "NAME"),            # Johnathan Michael Smith
+    (55, 68, "PHONE"),          # (212) 555-7890
+    (77, 107, "EMAIL"),         # johnathan.smith@example.com
+    (631, 635, "SKILL"),        # Java
+    (637, 643, "SKILL"),        # Python
+    (645, 648, "SKILL"),        # C++
+    (650, 660, "SKILL"),        # JavaScript
+    (684, 688, "SKILL"),        # HTML
+    (690, 693, "SKILL"),        # CSS
+    (695, 700, "SKILL"),        # React
+    (702, 709, "SKILL"),        # Node.js
+    (734, 743, "SKILL"),        # PostgreSQL
+    (745, 752, "SKILL"),        # MongoDB
+    (754, 759, "SKILL"),        # MySQL
+    (781, 787, "SKILL"),        # Docker
+    (789, 799, "SKILL"),        # Kubernetes
+    (801, 804, "SKILL"),        # Git
+    (806, 813, "SKILL"),        # Jenkins
+    (837, 840, "SKILL"),        # AWS
+    (842, 847, "SKILL"),        # Azure
+    (849, 860, "SKILL"),        # Google Cloud
+    (884, 894, "SKILL"),        # TensorFlow
+    (896, 903, "SKILL"),        # PyTorch
+    (905, 918, "SKILL"),        # scikit-learn
+    (940, 958, "SKILL"),        # Agile methodologies
+    (960, 982, "SKILL"),        # Test-Driven Development
+    (984, 999, "SKILL"),        # RESTful API design
+]

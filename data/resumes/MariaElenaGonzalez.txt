@@ -1,0 +1,28 @@
+entities = [
+    (1, 22, "NAME"),            # Maria Elena Gonzalez
+    (62, 76, "PHONE"),          # (415) 555-1234
+    (85, 115, "EMAIL"),         # maria.gonzalez@example.com
+    (700, 710, "SKILL"),        # JavaScript
+    (712, 718, "SKILL"),        # Python
+    (720, 724, "SKILL"),        # Ruby
+    (747, 751, "SKILL"),        # HTML
+    (753, 756, "SKILL"),        # CSS
+    (758, 763, "SKILL"),        # React
+    (765, 772, "SKILL"),        # Angular
+    (774, 781, "SKILL"),        # Node.js
+    (783, 790, "SKILL"),        # Express
+    (813, 818, "SKILL"),        # MySQL
+    (820, 827, "SKILL"),        # MongoDB
+    (829, 838, "SKILL"),        # PostgreSQL
+    (860, 866, "SKILL"),        # Docker
+    (868, 878, "SKILL"),        # Kubernetes
+    (880, 883, "SKILL"),        # Git
+    (885, 892, "SKILL"),        # Jenkins
+    (894, 898, "SKILL"),        # Jira
+    (920, 923, "SKILL"),        # AWS
+    (925, 931, "SKILL"),        # Heroku
+    (933, 938, "SKILL"),        # Azure
+    (960, 978, "SKILL"),        # Agile methodologies
+    (980, 1004, "SKILL"),       # Test-Driven Development (TDD)
+    (1006, 1016, "SKILL"),      # RESTful APIs
+]
